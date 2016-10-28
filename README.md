@@ -1,3 +1,3 @@
 # Collection
 
-[Overleaf - Writing & Publishing]https://www.overleaf.com
+[Overleaf - Writing & Publishing](https://www.overleaf.com)
